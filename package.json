@@ -1,0 +1,29 @@
+{
+  "name": "mecat",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "firebase": "^9.21.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.23",
+    "roboto-fontface": "*",
+    "vue": "^3.2.47",
+    "vue-basic-alert": "^1.1.0",
+    "vue-router": "^4.0.0",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12"
+  }
+}
