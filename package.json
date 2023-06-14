@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "push":"git push origin master",
     "build": "vite build",
     "preview": "vite preview",
     "host": "vite --host"
