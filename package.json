@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "push":"git push origin master",
+    "push":"git push MeCat arya",
     "build": "vite build",
     "preview": "vite preview",
     "host": "vite --host"
