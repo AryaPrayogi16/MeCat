@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "push":"git push MeCat arya",
-    "commit": "git commit -m \"arya commit\"",
+    "push":"git push MeCat master",
+    "commit": "git commit git checkout-m \"arya commit\"",
     "build": "vite build",
     "preview": "vite preview",
     "host": "vite --host"
